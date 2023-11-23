@@ -1,19 +1,28 @@
-# teste
+# Projeto Dart - Tela de Participantes
 
-A new Flutter project created with FlutLab - https://flutlab.io
+## Descrição do Projeto
+Este projeto em Dart consiste em uma aplicação simples com uma tela inicial exibindo os nomes dos participantes: Gabriel, Augusto e Luan. Ao clicar em um nome, o usuário será direcionado para uma tela contendo mais informações sobre a pessoa selecionada.
 
-## Getting Started
+1. Clone o repositório para sua máquina local:
+    ```bash
+    git clone https://github.com/GabrielEnriqueLS/appDart.git
+    ```
 
-A few resources to get you started if this is your first Flutter project:
+2. Navegue até o diretório do projeto:
+    ```bash
+    cd appDatar
+    ```
 
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
+3. Execute a aplicação:
+    ```bash
+    dart run
+    ```
 
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+4. Abra um navegador e acesse [https://flutlab.io/](https://flutlab.io/) ele ja vai da um projeto pronto(Mais facil).
 
-## Getting Started: FlutLab - Flutter Online IDE
+## Estrutura do Projeto
+O projeto está estruturado da seguinte forma:
 
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+- `lib/main.dart`: Arquivo principal da aplicação que contém a lógica para exibir a tela inicial com os nomes dos participantes e a navegação para as telas individuais.
+- `assets`: Local onde fica as imagens.
+  
