@@ -10,7 +10,7 @@ Este projeto em Dart consiste em uma aplicação simples com uma tela inicial ex
 
 2. Navegue até o diretório do projeto:
     ```bash
-    cd appDatar
+    cd appDart
     ```
 
 3. Execute a aplicação:
